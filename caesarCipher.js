@@ -1,4 +1,4 @@
-// Kryptering
+// Kryptering med Caesar Cipher
 function caesarE(key, cleartext) {
     if (!key || !cleartext) { 
 		throw new Error("Key must be a positive integer and cleartext must be a non-empty string."); 

@@ -1,4 +1,4 @@
-// Kryptering med Vignière
+// Kryptering med Vigenère Cipher
 function vigE(key, cleartext) {
     if (!key || !cleartext) { 
         throw new Error("Key and cleartext must both be non-empty strings."); 
