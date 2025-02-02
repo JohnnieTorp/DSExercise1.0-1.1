@@ -1,0 +1,12 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Når man bruger clearsign, bliver beskeden ikke krypteret, men der tilføjes en digital signatur. 
+Det betyder, at modtageren kan læse den oprindelige besked direkte, men samtidig er det muligt at kontrollere, om beskeden er blevet ændret eller om den kommer fra den rigtige afsender.
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQREJ9cJsEidU07MYCA/7HZ96eZuNgUCZ5+TzQAKCRA/7HZ96eZu
+Ng14AQDM6kZrlMf+HqxLZgBmz35KhymW9oqj/pRaswSvOCc7pgD7B8rfHHbzk6T5
+ZEUY6/yUXnpbkTuvX+d7R/YpnbdX/Qc=
+=fS8K
+-----END PGP SIGNATURE-----

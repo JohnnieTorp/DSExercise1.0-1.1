@@ -1,0 +1,11 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Take the text of this assignment, and put it into a txt document. Then sign it with a regular digital signature, name the output `SecE2.sign.txt`, and put it into the repo.
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQREJ9cJsEidU07MYCA/7HZ96eZuNgUCZ5+TGAAKCRA/7HZ96eZu
+Nq0FAQDbdNHh9yOGFFqV1rrxpAv8lWXbTHVh2l3HKcltC6JWrgEAtdO6SgZpU9R5
+RWa62YKhN0JyWuzBt5fdiZhcxU/xIwc=
+=rl+7
+-----END PGP SIGNATURE-----

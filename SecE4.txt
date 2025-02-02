@@ -1,0 +1,5 @@
+En mulig anvendelse af en detached signature er verifikation af e-mailvedhæftede filer.
+
+Når en person sender en vigtig fil, som f.eks. et kontraktudkast, kan de generere en digital signatur som en separat fil. Modtageren kan derefter hente både filen og signaturen og bruge dem til at bekræfte, at filen ikke er blevet ændret under overførslen, og at den stammer fra den rette afsender.
+
+Det er nyttigt, når man sender følsomme eller juridisk bindende dokumenter, hvor det er vigtigt at sikre filens integritet uden at ændre selve filens indhold.
