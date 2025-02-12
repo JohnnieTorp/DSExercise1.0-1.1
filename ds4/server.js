@@ -4,9 +4,8 @@ const crypto = require('crypto');
 const bodyParser = require('body-parser');
 
 const app = express();
-const db = new sqlite3('test.db');  // Antag, at test.db findes og har tabellen user256
+const db = new sqlite3('test.db'); 
 
-// Brug body-parser til at kunne hente data fra POST-formularen
 app.use(express.static('public'));
 app.use(bodyParser.urlencoded({ extended: true }));
 
